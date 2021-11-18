@@ -1,0 +1,113 @@
+.row {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.jumbotron {
+    padding: 24px;
+    background-color: rgb(115, 122, 122);
+}
+
+.col {
+    background-color: bisque;
+    margin: 16px;
+}
+
+.error {
+    color: #FF0000;
+}
+
+.login {
+    padding: 30px;
+    background-color: rgb(115, 122, 122);
+}
+
+.body-background {
+    background-image: url("");
+}
+
+.nav-item {
+    display: inline-block;
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    color: rgb(209, 12, 12);
+}
+
+.col-sm-4 p:hover {
+    background: rgba(45, 75, 75, 0.5);
+}
+
+.alert-info {
+    margin-top: 10px;
+}
+
+.clock {
+    float: left;
+    color: white;
+}
+
+.nav-link {
+    color: azure;
+}
+
+.wrapper {
+    margin: 36px;
+}
+
+.wrapper table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 70%;
+}
+
+.carousel-caption h3 p {
+    color: brown;
+}
+
+#copyright p {
+    background-color: #000000fb;
+    color: cornsilk;
+}
+
+.carousel {
+    margin: 60px;
+}
+
+.logo {
+    align-content: center;
+    padding: 10px;
+}
+
+.partial-image:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.btn {
+    background-color: brown;
+}
